@@ -20,4 +20,5 @@ AI-powered analytics frameworks; Real-time data workflows; Cloud-based reporting
 
 🤝 I thrive in collaborative environments and I am keen to contribute to dynamic teams that leverage data to drive innovation and success.
 
-📫 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/ramyabalram/) or reach out via email at ramyabalram@gmail.com. Let's create impactful data-driven solutions together!
+📫 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/ramyabalram/) or reach out via email at ramyabalram@gmail.com. 
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
