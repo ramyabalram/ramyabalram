@@ -1,16 +1,23 @@
 ## Hi there 👋
+Hi there, I'm Ramya Balram, a dedicated Data Engineering–Driven Lead Data Analyst with over 10 years of experience blending data engineering and analytics. I supported building scalable data pipelines, validating complex datasets, and delivering enterprise‑wide analytics across finance, healthcare, education, and telecom domains. My strength is bridging data engineering and analytics — I work hands‑on with SQL, Python, ETL frameworks, and big‑data platforms to design high‑performance workflows and ensure data quality from raw to curated zones in Medallion Architecture.
 
-<!--
-**ramyabalram/ramyabalram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my recent role, I led data quality and integration efforts across 20+ ServiceNow and SOR sources, achieving 99% accuracy and improving reporting consistency by 30%. I also engineered SQL pipelines that improved performance by 20%, delivered curated datasets to 150+ downstream applications, and strengthened audit readiness by reducing defect findings by 40%. I enjoy partnering with engineering, platform, and reporting teams to solve complex data problems and enable self‑service analytics for business users. I’m also passionate about documentation, metadata, and mentoring — I’ve created data dictionaries, lineage assets, and mapping documents that reduced onboarding time by 30%, and I regularly coach junior analysts on SQL best practices and enterprise data standards. Overall, I bring a mix of technical depth, data engineering mindset, and business alignment to help organizations make reliable, data‑driven decisions.
 
-Here are some ideas to get you started:
+📊 My career highlights include: Architected and optimized ETL pipelines processing 20+ million records daily, improving data freshness and reliability.Built production-grade SQL solutions that reduced query runtimes by 40% and improved dashboard performance. Automated manual reporting workflows, saving 80+ hours/month in operational effort.Designed scalable data models supporting 50+ business stakeholders across multiple domains.Improved data quality and validation frameworks, reducing data defects by 30%.Mentored and guided 12+ junior analysts, elevating team-wide SQL and analytics standards.Partnered with engineering and product teams to deliver end-to-end data solutions from ingestion to insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills: 
+Databases & Querying:Oracle • SQL Server • MySQL • PostgreSQL • Hive • Teradata • ServiceNow SOR • SQL Developer • TOAD • SSMS
+Programming & Analysis:SQL • Python • Excel • Exploratory Data Analysis (EDA) Data Cleaning • Data Validation • KPI Development.
+Data Modeling & Metadata:Power Designer • Dimensional Modeling • Star/Snowflake Schemas • Data Mapping • Source to Target Design • Metadata Management • Data Dictionaries • Lineage Documentation. 
+ETL & Data Pipelines:ETL Processes • Data Warehousing • SQL Based ETL Pipelines • Informatica PowerCenter • Ab Initio • ETL Validation • High Performance Pipeline Development
+Business Intelligence & Reporting:Power BI • OBIEE • Tableau • SAP Business Objects • Dashboard Development 
+Agile & Collaboration:Agile/Scrum • JIRA • Confluence • Requirements Gathering • Business Analysis • Business Validations • UAT • Stakeholder Management • Communication • Problem Solving • Attention to Detail • Continuous Learning.
+
+🌱 I’m passionate about continuously sharpening my skills and staying current with the latest trends in data analytics. Recently, I’ve focused on building interactive dashboards and conducting deep-dive analyses to solve real-world business problems. You can explore these projects on my GitHub.
+
+🧠 Currently Building
+AI-powered analytics frameworks; Real-time data workflows; Cloud-based reporting architecture; Advanced data engineering depth
+
+🤝 I thrive in collaborative environments and I am keen to contribute to dynamic teams that leverage data to drive innovation and success.
+
+📫 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/ramyabalram/) or reach out via email at ramyabalram@gmail.com. Let's create impactful data-driven solutions together!
